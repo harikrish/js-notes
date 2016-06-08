@@ -1,0 +1,3 @@
+https://css-tricks.com/all-about-floats/
+http://alistapart.com/article/css-floats-101
+https://www.smashingmagazine.com/2007/05/css-float-theory-things-you-should-know/
